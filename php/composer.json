@@ -1,0 +1,17 @@
+{
+    "name": "futakimu/design-pattern",
+    "authors": [
+        {
+            "name": "futakimu",
+            "email": "futakimu@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "DP\\": "src/"
+        }
+    }
+}
